@@ -1,5 +1,5 @@
 # Download the Anki template
-https://github.com/Persie0/pareader_support/blob/master/img/pareaderFix.apkg
+https://github.com/Persie0/pareader_support/raw/master/img/pareaderFix.apkg
 #  Import it
 ![alt text](https://github.com/Persie0/pareader_support/blob/master/img/2022-08-24_13-04.png?raw=true)
 ![alt text](https://github.com/Persie0/pareader_support/blob/master/img/2022-08-24_13-05.png?raw=true)
